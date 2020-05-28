@@ -1,6 +1,8 @@
 html {
   // background-color: #2a3152;
   background: url("background.jpg");
+  background-position: bottom;
+  background-size: cover;
 }
 
 li h2 {
