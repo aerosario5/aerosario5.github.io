@@ -1,6 +1,6 @@
 html {
   // background-color: #2a3152;
-  //background: url("background.jpg");
+  background: url("background.jpg");
 }
 
 li h2 {
@@ -50,23 +50,4 @@ body {
   background-color: white;
   color: black;
   opacity: 0.5;
-}
-
-div.page {
-  width: 200px;
-  height: 200px;
-  display: block;
-  position: relative;
-}
-
-div.page::after {
-  content: "";
-  background: url("background.png");
-  opacity: 0.5;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  position: absolute;
-  z-index: -1;
 }
