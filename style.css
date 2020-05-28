@@ -52,14 +52,14 @@ body {
   opacity: 0.5;
 }
 
-div.class {
+div.page {
   width: 200px;
   height: 200px;
   display: block;
   position: relative;
 }
 
-div.class::after {
+div.page::after {
   content: "";
   background: url("background.png");
   opacity: 0.5;
