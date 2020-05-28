@@ -1,5 +1,7 @@
 html {
   // background-color: #2a3152;
+  background: url("background.jpg");
+  opacity: 0.5;
 }
 
 li h2 {
