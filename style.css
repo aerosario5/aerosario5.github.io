@@ -1,5 +1,9 @@
+li h2 {
+  font-weight: bold;
+  color: white;
+}
+
 .container {
-  margin: 0 auto;
   max-width: 940px;
   padding: 0 10px;
 }
