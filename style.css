@@ -46,7 +46,7 @@ body {
   text-decoration: none;
 }
 
-.credit {
+.credit a{
   background-color: white;
   color: black;
   opacity: 0.5;
