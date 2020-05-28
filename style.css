@@ -7,6 +7,10 @@ li h2 {
   color: white;
 }
 
+body {
+  margin: 8px 0 8px 0;
+}
+
 .container {
   width: 100vw;
   padding: 0 10px;
