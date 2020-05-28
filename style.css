@@ -28,3 +28,8 @@ li h2 {
   list-style: none;
   padding: 0 10px;
 }
+
+.nav-item {
+  color: white;
+  text-decoration: none;
+}
