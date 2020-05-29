@@ -65,7 +65,11 @@ a.report {
 }
 
 #paypal-button {
-  background-color: black;
+  background-color: blue;
   color: white;
   text-decoration: none;
+  padding: 20px;
+  font-size: 35px;
+  border-radius: 45px;
+  position: absolute;
 }
