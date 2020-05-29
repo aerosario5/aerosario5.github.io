@@ -53,7 +53,7 @@ body {
   text-decoration: none;
 }
 
-.paypal-button {
+#paypal-button {
   background-color: black;
   color: white;
   text-decoration: none;
