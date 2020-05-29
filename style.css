@@ -44,8 +44,8 @@ body {
   height: 94px;
 }
 
-.report {
-  color: white;
+a.report {
+  color: black;
   text-decoration: underline;
   font-family: Arial;
   font-weight: bold;
