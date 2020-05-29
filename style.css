@@ -11,6 +11,10 @@ body {
   margin: 8px 0 8px 0;
 }
 
+p {
+  font-size: 35px;
+}
+
 .background {
   background: url("background.jpg");
   background-position: bottom;
@@ -74,6 +78,6 @@ a.report {
   color: white;
   text-decoration: none;
   padding: 20px;
-  font-size: 35px;
+  font-size: 50px;
   border-radius: 45px;
 }
