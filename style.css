@@ -1,9 +1,5 @@
 html {
   // background-color: #2a3152;
-  background: url("background.jpg");
-  background-position: bottom;
-  background-size: cover;
-  font-family: Arial;
 }
 
 li h2 {
@@ -13,6 +9,13 @@ li h2 {
 
 body {
   margin: 8px 0 8px 0;
+}
+
+.background {
+  background: url("background.jpg");
+  background-position: bottom;
+  background-size: cover;
+  font-family: Arial;
 }
 
 .container {
