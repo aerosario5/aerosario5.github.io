@@ -3,6 +3,7 @@ html {
   background: url("background.jpg");
   background-position: bottom;
   background-size: cover;
+  font-family: Arial;
 }
 
 li h2 {
@@ -41,7 +42,7 @@ body {
 }
 
 .nav-item {
-  color: black;
+  color: white;
   text-decoration: none;
 }
 
