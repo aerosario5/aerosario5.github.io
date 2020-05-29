@@ -64,6 +64,11 @@ a.report {
   text-decoration: none;
 }
 
+.button {
+  display: flex;
+  justify-content: center;
+}
+
 #paypal-button {
   background-color: blue;
   color: white;
