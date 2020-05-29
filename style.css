@@ -44,6 +44,13 @@ body {
   height: 94px;
 }
 
+.report {
+  color: white;
+  text-decoration: underline;
+  font-family: Arial;
+  font-weight: bold;
+}
+
 .nav-item {
   color: white;
   text-decoration: none;
