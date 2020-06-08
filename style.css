@@ -36,6 +36,7 @@ h2 {
   background-position: bottom;
   background-size: cover;
   font-family: Arial;
+  padding-bottom: 10px;
 }
 
 .container {
